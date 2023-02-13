@@ -1,4 +1,4 @@
-# Finsweet Developer Starter
+# Webflow Developer Template
 
 A starter template for both Client & Power projects.
 
